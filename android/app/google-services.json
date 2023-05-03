@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "208563810999",
+    "project_id": "animal-7eebd",
+    "storage_bucket": "animal-7eebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208563810999:android:315e10bbbdf308e1871332",
+        "android_client_info": {
+          "package_name": "com.example.rescue_animal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208563810999-gff4eimdl135e8aqhq0e4u1oaiake4r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKN7XP-13dBJVQPRRIGJ8gXKCWFvmROFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208563810999-gff4eimdl135e8aqhq0e4u1oaiake4r6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208563810999-2c6ovv2fr4qtes4sevk0tg6l4n0j88rf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rescueAnimal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
